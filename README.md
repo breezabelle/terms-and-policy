@@ -12,3 +12,8 @@
 - Your authentication data is safely stored and not shared with anyone.  
 - We do not collect personal information beyond what is necessary for authentication.  
 - You can remove your data by running the `/logout` command.
+
+## Other Information
+
+The Breezabelle #5283 bot is designed for users on Discord to do things related to their Epic Games (Fortnite) account.
+If you require any assistane, please join our Support Server: **https://discord.gg/sgghzWChjH**
